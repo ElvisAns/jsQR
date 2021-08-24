@@ -31,3 +31,7 @@ node_modules
 # Don't commit package-lock.json - We don't have any direct dependencies, and the dev dependencies for now at least
 # dont't need to be locked beyond the package.json
 package-lock.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
